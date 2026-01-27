@@ -1,6 +1,6 @@
 # NEVEKO Landingpage
 
-Einfache statische Landingpage für NEVEKO Advisory, gehostet über Azure Static Web Apps.
+Einfache statische Landingpage für NEVEKO Advisory Group, gehostet über Azure Static Web Apps.
 
 ## Struktur
 
